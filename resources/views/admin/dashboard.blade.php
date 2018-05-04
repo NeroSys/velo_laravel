@@ -26,7 +26,7 @@
     </div>
     <div class="row">
       <div class="col-sm-6">
-        <a href="#" class="btn btn-block btn-default">Создать категорию</a>
+        <a href="#" class="btn btn-block btn-warning">Создать категорию</a>
         <a href="#" class="list-group-item">
           <h4 class="list-group-item-heading">Категория первая</h4>
           <p class="list-group-item-text">
@@ -35,7 +35,7 @@
         </a>
       </div>
       <div class="col-sm-6">
-          <a href="#" class="btn btn-block btn-default">Создать статью</a>
+          <a href="#" class="btn btn-block btn-primary">Создать статью</a>
         <a href="#" class="list-group-item">
           <h4 class="list-group-item-heading">Статья первая</h4>
           <p class="list-group-item-text">
