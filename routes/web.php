@@ -17,6 +17,9 @@ Route::group(['prefix' => 'admin', 'namespace' => 'Admin', 'middleware' => ['aut
 
   // маршрутизатор контроллера категорий
   Route::resource('/category', 'CategoryController', ['as'=>'admin']);
+
+  // маршрутизатор контроллера новостей
+  Route::resource('/article', 'ArticleController', ['as'=>'admin']);
 });
 
 
